@@ -45,13 +45,16 @@ sidebar:
      interests:
           title: Interesse/Hobbies
           info:
-               - item: Gitarrist bei Deepwater Survival (Punk Rock Band)
+               - item: Gitarrist bei Deepwater Survival
                  link: https://deepwatersurvival.de/
 
-               - item: Tauchen
+               - item: Darts
                  link:
 
-               - item: Darts
+               - item: Astrofotografie
+                 link: https://app.astrobin.com/u/LucasHahmann#gallery
+
+               - item: IT Homelab
                  link:
 
 career-profile:
@@ -61,7 +64,8 @@ career-profile:
 education:
      title: Schulbildung
      info:
-          - university: Berufsbildende Schule Gestaltung und Technik, Trier
+          - degree: Schuliche Ausbildung Fachinformatiker für Systemintegration
+            university: Berufsbildende Schule Gestaltung und Technik, Trier
             time: 01.08.2019 – 31.07.2022
             details: |
                  Schulabschluss: Qualifizierter Sekundarabschluss I (Ø 1,84)
@@ -88,7 +92,8 @@ experiences:
             company: Universität Trier
             details: |
                  Aufgaben: First- und Second Layer Support, Hardware Support, Softwarelizensierung, Programmieren, Virtualisierung und Speicherverwaltung (OneFS)
-                  IHK Abschlussprojekt - Proxmox Hypervisor Cluster mit integriertem Proxmox BackUp Server
+                 
+                 IHK Abschlussprojekt - Proxmox Hypervisor Cluster mit integriertem Proxmox BackUp Server
 
 certifications:
      title: Zertifikate
@@ -120,38 +125,40 @@ projects:
             link: "#"
             tagline: "Als Band brauchten wir ein professionelles Auftreten im Netz, dazu gehörte eine Webseite, eine Domain, Mail Adressen und ein Cloudspeicher. Zudem bin ich aktiv im Instagram Kanal aktiv."
 
-          - title: Bonetakers Trier?
-            link: "#"
-            tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
 oss:
      title: OSS Contributions
      contributions:
           - title: log4me
             link: "https://github.com/LucasHahmann/log4me"
             tagline: "Ein einfaches Logging Framework für Python, welches ich in meinen Projekten nutze."
+          - title: cloudflare-python-dyndns
+            link: "https://github.com/LucasHahmann/cloudflare-python-dyndns"
+            tagline: "Ein selbstgebauter DynDNS Script, welcher mit CNAME Records arbeitet um wechselne IP Adressen statisch halten zu können."
 
 skills:
      title: Skills &amp; Proficiency
 
      toolset:
           - name: Ubuntu
-            level: 98%
+            level: 90%
 
           - name: Virtualisierung (Speziell; Proxmox und VMware)
-            level: 98%
+            level: 90%
 
           - name: PostgreSQL
-            level: 98%
+            level: 90%
 
-          - name: Bandspeicher
-            level: 95%
+          - name: Bandspeicher LTO 8
+            level: 80%
 
           - name: Netzwerkprotokolle (DHCP, DNS...)
             level: 85%
 
-          - name:
-            level: 60%
+          - name: Sage 100
+            level: 75%
+
+          - name: GIS-Dienste
+            level: 75%
 
 footer: >
-     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+     
