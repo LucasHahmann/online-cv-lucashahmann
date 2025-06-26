@@ -118,11 +118,11 @@ projects:
      title: Projekte
      assignments:
           - title: Nextcloud Installation und Hosting für die Freiwillige Jungendfeuerwehr Zewen
-            link: "#hook"
+            link: ""
             tagline: "Durch die Nextcloud kann sich die Freiwillige Jungendfeuerwehr Feuerwehr Zewen komplett selber Verwalten und austauschen."
 
           - title: Deepwater Survival - IT Infrastruktur
-            link: "#"
+            link: "https://deepwatersurvival.de/"
             tagline: "Als Band brauchten wir ein professionelles Auftreten im Netz, dazu gehörte eine Webseite, eine Domain, Mail Adressen und ein Cloudspeicher. Zudem bin ich aktiv im Instagram Kanal aktiv."
 
 oss:
